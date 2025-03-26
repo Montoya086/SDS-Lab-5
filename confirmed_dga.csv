@@ -1,0 +1,13 @@
+domain,domain_tld,is_dga,tld_not_in_list,creation_date,has_dga_pattern
+safebrowsing.clients.google.com.home,home,0,1,,True
+192.168.22.110phpmyadmin,110phpmyadmin,1,1,,True
+secure.informaction.com.localdomain,localdomain,0,1,,True
+safebrowsing.clients.google.com.localdomain,localdomain,0,1,,True
+192.168.22.110phpmyadmin.localdomain,localdomain,1,1,,True
+www.theanime.cn. , ,0,1,,True
+safebrowsing.clients.google.com.hackerlabs.vpn,vpn,1,1,,True
+secure.informaction.com.home,home,0,1,,True
+secure.informaction.com.hackerlabs.vpn,vpn,1,1,,True
+safebrowsing.clients.google.com.lan,lan,1,1,,True
+whitecell.localdomain,localdomain,0,1,,True
+ntp.ubuntu.com.localdomain,localdomain,0,1,,True
